@@ -1,2 +1,2 @@
 # fireworks-post-plugin
-Plugin que gera fogos de artifício dentro de um post.
+Plugin que gera fogos de artifício ao fundo do site.
